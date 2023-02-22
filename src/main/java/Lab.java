@@ -2,7 +2,7 @@ public class Lab {
     /**
      * TODO: Change this method so that it returns "Hello, world!"
      *
-     * This method currently contains the line:
+     * method currently contains the line:
      * return "change me";
      * That means that this method is a piece of code that produces a String "change me", 
      * and when this method is used in other parts of my program, the value "change me"
